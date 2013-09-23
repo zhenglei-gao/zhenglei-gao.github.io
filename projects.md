@@ -9,7 +9,7 @@ Hello, I am your first Markdown document within **StackEdit**[^stackedit]. Don't
 ----------
 
 
-Documents
+Bayer Projects Summary
 ---------
 
 **StackEdit** stores your documents in the browser local storage, which means all your documents are automatically saved locally and are accessible offline.
