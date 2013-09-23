@@ -1,5 +1,5 @@
 
-Welcome to StackEdit!	{#welcome}
+Projects	{#Projects}
 =====================
 
 
@@ -28,11 +28,11 @@ You can list all your local documents and switch from one to another by clicking
 
 You can rename the current document by clicking the document title in the navigation bar.
 
-#### <i class="icon-trash"></i> Delete a document
+#### <i class="icon-trash"></i> Cancelled Projects
 
 You can delete the current document by clicking the <i class="icon-trash"></i> button in the navigation bar.
 
-#### <i class="icon-hdd"></i> Save a document
+#### <i class="icon-hdd"></i> Finished Projects
 
 You can save the current document to a file using the <i class="icon-hdd"></i> `Save as...` sub-menu.
 
